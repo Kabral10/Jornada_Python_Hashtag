@@ -1,0 +1,10 @@
+Instal pyautogui
+|
+v
+pip install pyautogui
+
+
+Install pandas
+|
+v
+pip install pandas
